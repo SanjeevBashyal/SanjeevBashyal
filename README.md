@@ -22,7 +22,7 @@
 <img align="left" alt="Revit" height="26px" src="https://damassets.autodesk.net/content/dam/autodesk/www/products/responsive-imagery/responsive-badges-compare/2017/revit-2017-badge-75x75.png" />
 <img align="left" alt="ETABS" height="26px" src="https://assets-us-01.kc-usercontent.com/1ca05609-4ad1-009e-bc40-2e1230b16a75/06bd3266-fda8-4ae9-a034-14c6e82ed37c/etabs%20color.png?w=400&h=300&fit=clip" />
 <img align="left" alt="ABAQUS" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/f/f6/ABAQUS_logo.png" />
-<img align="left" alt="QGIS" height="26px" src="https://www.qgis.org/en/_static/logo.png" />
+<img align="left" alt="QGIS" title="QGIS" height="26px" src="https://www.qgis.org/en/_static/logo.png" />
 <br/>
 
 ## Contact Me
