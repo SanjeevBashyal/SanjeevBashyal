@@ -8,6 +8,7 @@
 <img align="left" alt="JS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png" />
 <img align="left" alt="C" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/220px-C_Programming_Language.svg.png" />
 <img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/220px-C_Programming_Language.svg.png" />
+<br/>
 
 ## Tools, I use
 <img align="left" alt="QGIS" width="26px" src="https://www.qgis.org/en/_static/logo.png" />
