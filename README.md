@@ -1,6 +1,6 @@
 ### Civil Engineering Student who loves to handover his tasks to computers
 
-## My Websites (All in development stage)
+## My Websites (All in developmental stage)
 - [Lichal](https://lichal.com)
 - [Lichal Structures](https://structures.lichal/com)
 
